@@ -17,7 +17,8 @@ To get started with the project, follow these steps:
    node app
    ```
 5. The API will be accessible at `http://localhost:8000/api/products`.
-
+## Visual Representation of the API's Functionality
+![Screenshot of the Working API](https://github.com/Princekumar-Mehta/api_demo/blob/2e2143a81b67b4edce26b0a466ea2e7c8636b1a5/images/Screenshot%20from%202023-06-05%2011-03-43.png)
 ## API Endpoints
 
 The following endpoints are available in the API:
